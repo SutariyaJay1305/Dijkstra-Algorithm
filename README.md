@@ -36,6 +36,7 @@ This program implements Dijkstra's algorithm to find the shortest path in a weig
 The program output displays the shortest distances from the source vertex:
 
 Vertex   Distance from Source
+
     0                0
     1                4
     2                12
